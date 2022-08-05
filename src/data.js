@@ -1,3 +1,4 @@
+import countTimer from './countdown_newyear.png'
 export const products = [
     {
       id: 1,
@@ -6,8 +7,8 @@ export const products = [
     },
     {
       id: 2,
-      img: "",
-      link: "http://lama.dev",
+      img: "https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dGltZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+      link: "https://newyear-count-timer-5065dc.netlify.app/",
     },
     {
       id: 3,
