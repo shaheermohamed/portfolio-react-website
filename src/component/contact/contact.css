@@ -82,6 +82,8 @@
   
  
 @media screen and (max-width: 480px) {
+  
+  
   .c-wrapper {
     flex-direction: column;
     padding: 0px 50px;
@@ -118,7 +120,7 @@
     height: 40px;
     width: 30%;
    margin-left: 80px;
-   margin-bottom: 50px;
+  
   }
   textarea{
     width: 100%;
